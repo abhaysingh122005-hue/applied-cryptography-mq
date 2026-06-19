@@ -1,1 +1,1 @@
-# applied-cryptography-mq
+Python implementations of core cryptographic concepts completed as part of COMP2300 Applied Cryptography at Macquarie University. Covers affine ciphers, symmetric encryption and hash functions with MACs
